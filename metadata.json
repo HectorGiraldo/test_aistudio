@@ -1,0 +1,5 @@
+{
+  "name": "Recetas de tu Nevera",
+  "description": "Una aplicación que sugiere recetas diarias basadas en los ingredientes que tienes en tu nevera, utilizando la IA de Gemini.",
+  "requestFramePermissions": []
+}
